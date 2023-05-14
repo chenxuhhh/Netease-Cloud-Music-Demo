@@ -1,5 +1,5 @@
 # cloudmusic
-
+Provide some syntax for reference
 ## Project setup
 ```
 npm install
